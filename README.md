@@ -1,2 +1,2 @@
-# IT_tutorial
-De ruby on rails tutorial
+# Getting started with Rails
+Completed ruby on rials tutorial from http://guides.rubyonrails.org/getting_started.html
