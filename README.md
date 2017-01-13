@@ -1,2 +1,2 @@
 # Getting started with Rails
-Completed ruby on rials tutorial from http://guides.rubyonrails.org/getting_started.html
+Completed Ruby on Rails tutorial from http://guides.rubyonrails.org/getting_started.html
